@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 
 # Page configuration
 st.set_page_config(
-    page_title="Diabetes Prediction",
+    page_title="Diabetes Prediction 2025",
     page_icon="🏥",
     layout="wide"
 )
